@@ -1,2 +1,2 @@
 # mean-one
-initial repository for MEAN Front End Development
+Initial repository for MEAN Front End Development. To be continued...
